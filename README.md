@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TFLPLAYZ
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...html, css and sql
+- 🌱 I’m currently learning ...java, javascript and php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... for discord = TFLPLAYZ#9766
 
