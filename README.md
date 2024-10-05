@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TFLPLAYZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...java, javascript and php
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in story games
+- 🌱 I’m currently learning ...java, javascript, php and possibly renpy as a hobby
+- 💞️ I’m looking to collaborate on game development and web development
 - 📫 How to reach me ... for discord = TFLPLAYZ#9766
 
 <!---
